@@ -11,7 +11,7 @@ Este projeto é uma Landing Page desenvolvida com **HTML, CSS e JavaScript (Canv
 ## 📌 Estrutura do Projeto
 
 📂 **/projeto**
-  - 📄 `index.html` → Estrutura principal da página.
+  - 📄 `app.html` → Estrutura principal da página.
   - 🎨 `styles.css` → Estilização da página.
   - 🎨 `senac.png` → Logo do Senac.
   - 🎨 `bandeira.js` → Script para desenhar a bandeira do Japão via Canvas.
@@ -20,10 +20,10 @@ Este projeto é uma Landing Page desenvolvida com **HTML, CSS e JavaScript (Canv
 
 1️⃣ **Clone o repositório:**
 ```bash
- git clone https://github.com/seuusuario/projeto-senac.git
+ git clone https://github.com/lilianecardeal/PTI-APP-GR-FICAS-WEB.git
 ```
 
-2️⃣ **Abra o arquivo `index.html`** em um navegador.
+2️⃣ **Abra o arquivo `app.html`** em um navegador.
 
 ## 📌 Funcionalidades Implementadas
 
@@ -35,7 +35,7 @@ Este projeto é uma Landing Page desenvolvida com **HTML, CSS e JavaScript (Canv
 
 ## 📌 Estrutura do Código
 
-### **📄 index.html**
+### **📄 app.html**
 - Contém a estrutura da página.
 - Inclui o formulário de contato e o `<canvas>` para a bandeira do Japão.
 - Importa `styles.css` e `bandeira.js`.
@@ -46,26 +46,6 @@ Este projeto é uma Landing Page desenvolvida com **HTML, CSS e JavaScript (Canv
 
 ### **🎨 bandeira.js**
 - Usa o elemento `<canvas>` para desenhar a bandeira do Japão.
-
-## 📌 Exemplo de Código JavaScript (bandeira.js)
-```js
-window.onload = function() {
-    var canvas = document.getElementById("myCanvas");
-    var ctx = canvas.getContext("2d");
-    
-    // Desenho do retângulo branco
-    ctx.fillStyle = "white";
-    ctx.fillRect(50, 50, 200, 120);
-    ctx.strokeStyle = "black";
-    ctx.strokeRect(50, 50, 200, 120);
-    
-    // Desenho do círculo vermelho
-    ctx.fillStyle = "red";
-    ctx.beginPath();
-    ctx.arc(150, 110, 40, 0, Math.PI * 2);
-    ctx.fill();
-};
-```
 
 ## 📌 Melhorias Futuras 🚀
 - Adicionar responsividade ao formulário.
