@@ -11,10 +11,10 @@ Este projeto é uma Landing Page desenvolvida com **HTML, CSS e JavaScript (Canv
 ## 📌 Estrutura do Projeto
 
 📂 **/projeto**
-  - 📄 `app.html` → Estrutura principal da página.
-  - 🎨 `styles.css` → Estilização da página.
-  - 🎨 `senac.png` → Logo do Senac.
-  - 🎨 `bandeira.js` → Script para desenhar a bandeira do Japão via Canvas.
+  - 📄 `app.html` → Estrutura principal 
+  - 🎨 `styles.css` → Estilização 
+  - 🎨 `Readme.md` → Apresentação 
+  - 🎨 `bandeira.js` → Script para desenhar a bandeira do Japão via Canvas
 
 ## 📌 Como Executar o Projeto
 
