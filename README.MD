@@ -52,5 +52,5 @@ Este projeto é uma Landing Page desenvolvida com **HTML, CSS e JavaScript (Canv
 - Melhorar a acessibilidade.
 - Implementar animações para elementos visuais.
 
-## 📌 Autor
+## 📌 Autora
 Desenvolvido por **Liliane Cardeal** - 2025. 🚀
