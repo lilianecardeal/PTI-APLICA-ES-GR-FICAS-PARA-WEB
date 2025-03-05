@@ -38,14 +38,14 @@ Este projeto é uma Landing Page desenvolvida com **HTML, CSS e JavaScript (Canv
 ### **📄 app.html**
 - Contém a estrutura da página.
 - Inclui o formulário de contato e o `<canvas>` para a bandeira do Japão.
-- Importa `styles.css` e `bandeira.js`.
+- Importa `styles.css` e `bandeira.js`
 
 ### **🎨 styles.css**
 - Define o layout da página.
-- Estiliza o cabeçalho, formulário e imagens.
+- Estiliza o cabeçalho, formulário e imagens
 
 ### **🎨 bandeira.js**
-- Usa o elemento `<canvas>` para desenhar a bandeira do Japão.
+- Usa o elemento `<canvas>` para desenhar a bandeira do Japão
 
 ## 📌 Melhorias Futuras 🚀
 - Adicionar responsividade ao formulário.
