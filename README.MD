@@ -4,8 +4,8 @@ Este projeto é uma Landing Page desenvolvida com **HTML, CSS e JavaScript (Canv
 
 ## 📌 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript (Canvas)
 
 ## 📌 Estrutura do Projeto
