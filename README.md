@@ -1,2 +1,2 @@
-# PTI-APLICA-ES-GR-FICAS-PARA-WEB
+# PTI-APP-GRAFICAS-WEB
 Práticas com CSS e JS Canvas
