@@ -1,4 +1,4 @@
-# 📌 Landing Page - Senac
+# 📌 Página Contato - Senac
 
 Este projeto é uma Landing Page desenvolvida com **HTML, CSS e JavaScript (Canvas)** para ilustrar o uso de estilização avançada com **CSS** e manipulação gráfica via **Canvas**.
 
